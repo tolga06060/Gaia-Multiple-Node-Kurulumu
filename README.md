@@ -132,6 +132,8 @@ gaianet info --base $HOME/gaia-node-104
 
 - Link : https://www.gaianet.ai/setting/nodes
 - Join Domain : connect.gaia.domains
+- 
+NOT: Kripto Uzmanı Faruk Hoca'dan alıntılanmıştır.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
